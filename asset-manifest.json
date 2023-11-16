@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/webTwo/static/css/main.a1a85e9d.css",
+    "main.js": "/webTwo/static/js/main.aef3569a.js",
+    "static/js/787.96f9a208.chunk.js": "/webTwo/static/js/787.96f9a208.chunk.js",
+    "static/media/join-bg.png": "/webTwo/static/media/join-bg.d63bc04f7c8b2eb94428.png",
+    "static/media/home-fruits.png": "/webTwo/static/media/home-fruits.823553b09fb10ef85391.png",
+    "static/media/enjoy-3.png": "/webTwo/static/media/enjoy-3.11d9e33b23ddb1b8c785.png",
+    "static/media/enjoy-1.png": "/webTwo/static/media/enjoy-1.333ae8e79337306f7597.png",
+    "static/media/enjoy-2.png": "/webTwo/static/media/enjoy-2.403fb60b9b3cfe473c4c.png",
+    "static/media/popular-2.png": "/webTwo/static/media/popular-2.5b5b65fc596b9ef7014f.png",
+    "static/media/popular-3.png": "/webTwo/static/media/popular-3.9542271c5a63a45cf87c.png",
+    "static/media/popular-5.png": "/webTwo/static/media/popular-5.3ce27c2b0e9e3a5e03e0.png",
+    "static/media/popular-1.png": "/webTwo/static/media/popular-1.fc49052f03e4a0937503.png",
+    "static/media/popular-6.png": "/webTwo/static/media/popular-6.04d91ac1b8850037b3e1.png",
+    "static/media/popular-4.png": "/webTwo/static/media/popular-4.293e4135280937a9df27.png",
+    "static/media/logo.svg": "/webTwo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/webTwo/index.html",
+    "main.a1a85e9d.css.map": "/webTwo/static/css/main.a1a85e9d.css.map",
+    "main.aef3569a.js.map": "/webTwo/static/js/main.aef3569a.js.map",
+    "787.96f9a208.chunk.js.map": "/webTwo/static/js/787.96f9a208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1a85e9d.css",
+    "static/js/main.aef3569a.js"
+  ]
+}
