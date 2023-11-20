@@ -7,6 +7,7 @@ import Product from './Product/Product';
 import About from './About/About';
 import Contact from './Contact/Contact';
 import Footer from './Footer/Footer';
+import Error from './Error/Error';
 function App() {
   return (
     <BrowserRouter>
@@ -16,6 +17,7 @@ function App() {
       <Route path='/product' element={<Product/>}/>
       <Route path='/about' element={<About/>}/>
       <Route path='/contact' element={<Contact/>}/>
+      <Route path='*' element={<Error/>} />
     </Routes>
     <Footer/>
     </BrowserRouter>
