@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import { BrowserRouter,Routes,Route } from 'react-router-dom';
 import Header from './Header/Header';
@@ -23,5 +22,4 @@ function App() {
     </BrowserRouter>
   );
 }
-
 export default App;
